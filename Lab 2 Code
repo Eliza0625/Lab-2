@@ -1,0 +1,91 @@
+<!DOCTYPE html> 
+		<html>     
+				<head>     
+					<title> Figueroa | Lab 2 </title>     
+				</head>         
+		
+		<body>             
+
+				<iframe 
+				style="border-radius:12px" src="https://open.spotify.com/embed/track/2RwWBMeU9g4KaOHxQchJ4e?utm_source=generator" 
+				width="100%" 
+				height="352" 
+				frameBorder="0" 
+				allowfullscreen="" 
+				allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+				</iframe> 
+
+		<hr>         
+
+				<h1>About Me</h1>         
+
+					<img src="ef.png" alt="Elizabeth">
+
+         			<p><i>Quick lil' picture of me</i></p>         
+
+					<p>
+						Hi! my name is Elizabeth.<br> 
+		
+						I'm currently a junior majoring in <b>Interactive Design</b> at Lesley.<br> 
+						
+						Apart from school I work part-time as a dog walker and a barista at <a href="https://caffenero.com/us/">Caffè Nero!</a><br>             
+
+						Although I say part-time realistically it's only 1 day a week for both jobs.<br>             
+					</p>        
+
+
+			<br>
+		<hr>  
+			<br>      
+
+												 <!--Just a reminder that you need 3 images!-->
+
+             
+				<h2>Dod Walking</h2>         
+
+					<img src="roma.png" alt="One of the dogs I walk">  <img src="troy.png" alt="One of the dogs I walk"> <img src="odis.jpg" alt="One of the dogs I walk">       
+
+					<p>The images above show three different dogs I walk:<br>
+					               
+					</p>             
+
+
+						<ol>             
+							<li>Roma</li>             
+							<li>Troy</li>             
+							<li>Odis</li>            	         
+						</ol>                 
+
+				
+				<table border="3" cellpading="5" width="20%">                     
+							
+							<tr>                     
+								<th>Name</th>                     
+								<th>Breed</th>
+							<b>Dog Names and Their Breeds</b>
+							</tr>                         
+
+							<tr>                         
+								<td>Roma</td>                         
+								<td>Bernese Mountain Dog</td>                         
+							</tr>                         
+		
+							<tr>                         
+								<td>Troy</td>                         
+								<td>Large Goldendoodle</td>                         
+							</tr>                         
+				
+							<tr>                         
+								<td>Odis</td>                         
+								<td>Austraian Shepherd</td>                         
+							</tr>                        
+						
+	                
+				</table>         
+			
+			
+			</body> 
+
+			
+</html>
+
